@@ -27,7 +27,7 @@ The file `Dataset/list_partition_label.txt` contains the predefined data split a
 Install required Python packages using:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Reproducibility
 The results presented in the report can be reproduced by downloading the dataset from

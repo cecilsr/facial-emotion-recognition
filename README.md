@@ -18,7 +18,7 @@ The project uses the Real-world Affective Faces Database (RAF-DB).
 
 The aligned version of the dataset (faces centered and resized to 100×100 pixels) was used.
 Instructions for obtaining the dataset are available at:
-http://www.whdeng.cn/RAF/model1.html
+http://www.whdeng.cn/RAF/model1.html.
 
 The file `Dataset/list_partition_label.txt` contains the predefined data split and emotion labels used in the experiments.
 

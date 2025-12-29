@@ -6,8 +6,8 @@ Benedetta Bruno, Vaitian L. Marianayagam, Cecilie S. Rønnestad & Sander S. Svar
 ## Overview
 This repository contains code and results for a machine learning project comparing a Multilayer Perceptron (MLP) and Convolutional Neural Networks (CNN) for facial emotion recognition. The work focuses on evaluating model performance and architectural differences on a real-world facial expression dataset.
 
-A detailed description of the theoretical background, methodology and results is provided in the accompanying report:
-**`facial-emotion-recognition-report.pdf`**
+A detailed report describing the theoretical background, methodology and results
+is available in the `Report/` folder.
 
 ---
 

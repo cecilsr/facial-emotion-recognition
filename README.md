@@ -27,3 +27,11 @@ The file `Dataset/list_partition_label.txt` contains the predefined data split a
 Install required Python packages using:
 ```bash
 pip install -r requirements.txt
+
+
+## Reproducibility
+The results presented in the report can be reproduced by downloading the dataset from
+the original source, placing the aligned images in the `Dataset` directory, and running
+the provided training and evaluation scripts in the `Code` directory.
+
+

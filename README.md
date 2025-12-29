@@ -11,7 +11,7 @@ is available in the `Report` folder.
 
 
 ## Dataset
-The project uses the **Real-world Affective Faces Database (RAF-DB)**.
+The project uses the Real-world Affective Faces Database (RAF-DB).
 
 The aligned version of the dataset (faces centered and resized to 100×100 pixels) was used.
 Instructions for obtaining the dataset are available at:
